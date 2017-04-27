@@ -1,0 +1,10 @@
+#menu_principal{
+    background-color:black;
+}
+.img_responsive{
+    height:auto;
+    max-width:100%;
+}
+.sousligner{
+    text-decoration:underline;
+}
